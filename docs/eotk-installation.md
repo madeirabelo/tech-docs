@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EOTK - How to Install
+title: EOTK - How to Install v1
 nav_order: 101
 ---
 
